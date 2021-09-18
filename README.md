@@ -16,7 +16,9 @@ These are the electronics that we need....
 And we need to create a box to hold the whole structure in a compact cube to make it portable and durable.
 That must be created with a material like acrilic, plastic or wood.....
 
-Everything else is planned and we need money and knowledge to succeed here. The expenses and costs will be informed to you soon
+Everything else is planned 
+![MLX90614 Non Contact Temperature Sensor](https://user-images.githubusercontent.com/89307136/133883903-6a2df113-1270-4f51-91b5-99452340ab13.jpg)
+and we need money and knowledge to succeed here. The expenses and costs will be informed to you soon
 
 
 This message is to the Special Team 1 members of Rajans Robotics Club
